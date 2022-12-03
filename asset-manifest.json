@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5a449c4.css",
-    "main.js": "/static/js/main.e7d8bb4e.js",
+    "main.css": "/static/css/main.b6f69c73.css",
+    "main.js": "/static/js/main.fb4a7798.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/zoomCar.jpeg": "/static/media/zoomCar.fd7bcbe7a1f324d53856.jpeg",
+    "static/media/Mitali-Sinha-Resume.pdf": "/static/media/Mitali-Sinha-Resume.99545b684b90ab0d1378.pdf",
+    "static/media/zara.com.jpeg": "/static/media/zara.com.9e0ff86e2bad5ea41728.jpeg",
+    "static/media/myPic.jpeg": "/static/media/myPic.11c2c762da7ba722102f.jpeg",
     "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
-    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "index.html": "/index.html",
-    "main.a5a449c4.css.map": "/static/css/main.a5a449c4.css.map",
-    "main.e7d8bb4e.js.map": "/static/js/main.e7d8bb4e.js.map",
+    "main.b6f69c73.css.map": "/static/css/main.b6f69c73.css.map",
+    "main.fb4a7798.js.map": "/static/js/main.fb4a7798.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5a449c4.css",
-    "static/js/main.e7d8bb4e.js"
+    "static/css/main.b6f69c73.css",
+    "static/js/main.fb4a7798.js"
   ]
 }
