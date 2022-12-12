@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bdb5d87c.css",
-    "main.js": "/static/js/main.c8d3baf7.js",
+    "main.js": "/static/js/main.ed1e29f5.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/zoomCar.jpeg": "/static/media/zoomCar.fd7bcbe7a1f324d53856.jpeg",
     "static/media/Mitali-Sinha-Resume.pdf": "/static/media/Mitali-Sinha-Resume.99545b684b90ab0d1378.pdf",
@@ -11,11 +11,11 @@
     "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
     "index.html": "/index.html",
     "main.bdb5d87c.css.map": "/static/css/main.bdb5d87c.css.map",
-    "main.c8d3baf7.js.map": "/static/js/main.c8d3baf7.js.map",
+    "main.ed1e29f5.js.map": "/static/js/main.ed1e29f5.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdb5d87c.css",
-    "static/js/main.c8d3baf7.js"
+    "static/js/main.ed1e29f5.js"
   ]
 }
