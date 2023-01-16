@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.aeb264d3.css",
-    "main.js": "/static/js/main.35fd7fbb.js",
+    "main.css": "/static/css/main.6185fccd.css",
+    "main.js": "/static/js/main.a9dc840c.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/R-Mart.png": "/static/media/R-Mart.b88ac38416bb973084c1.png",
     "static/media/zoomCar.jpeg": "/static/media/zoomCar.fd7bcbe7a1f324d53856.jpeg",
+    "static/media/hi i am.jpeg": "/static/media/hi i am.e142c943a0160f653ba6.jpeg",
     "static/media/Mitali-Sinha-Resume.pdf": "/static/media/Mitali-Sinha-Resume.99545b684b90ab0d1378.pdf",
     "static/media/mitali-sinha-resume.pdf": "/static/media/mitali-sinha-resume.99545b684b90ab0d1378.pdf",
     "static/media/zara.com.jpeg": "/static/media/zara.com.9e0ff86e2bad5ea41728.jpeg",
@@ -12,12 +13,12 @@
     "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
     "index.html": "/index.html",
-    "main.aeb264d3.css.map": "/static/css/main.aeb264d3.css.map",
-    "main.35fd7fbb.js.map": "/static/js/main.35fd7fbb.js.map",
+    "main.6185fccd.css.map": "/static/css/main.6185fccd.css.map",
+    "main.a9dc840c.js.map": "/static/js/main.a9dc840c.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeb264d3.css",
-    "static/js/main.35fd7fbb.js"
+    "static/css/main.6185fccd.css",
+    "static/js/main.a9dc840c.js"
   ]
 }
