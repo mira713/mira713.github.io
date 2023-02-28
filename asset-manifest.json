@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.933ef10c.css",
-    "main.js": "/static/js/main.65f2d882.js",
+    "main.js": "/static/js/main.ffe4b4d4.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Mitali-Sinha-Resume.pdf": "/static/media/Mitali-Sinha-Resume.99545b684b90ab0d1378.pdf",
     "static/media/myPic.jpeg": "/static/media/myPic.11c2c762da7ba722102f.jpeg",
     "index.html": "/index.html",
     "main.933ef10c.css.map": "/static/css/main.933ef10c.css.map",
-    "main.65f2d882.js.map": "/static/js/main.65f2d882.js.map",
+    "main.ffe4b4d4.js.map": "/static/js/main.ffe4b4d4.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.933ef10c.css",
-    "static/js/main.65f2d882.js"
+    "static/js/main.ffe4b4d4.js"
   ]
 }
